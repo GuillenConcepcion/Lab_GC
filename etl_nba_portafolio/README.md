@@ -1,4 +1,4 @@
-# 🏀 NBA Stats & Sales Data Analyzer ETL
+# 🏀 DS_ETL_NBA
 
 Un proyecto de portafolio que demuestra un pipeline **ETL (Extract, Transform, Load)** robusto implementado en Python. Integra datos de ventas locales en formato CSV y datos deportivos externos consumidos a través de una API JSON, procesándolos y cargándolos en una base de datos PostgreSQL local gestionada con Docker.
 
