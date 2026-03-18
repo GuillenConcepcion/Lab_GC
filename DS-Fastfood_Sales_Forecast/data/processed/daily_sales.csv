@@ -1,0 +1,825 @@
+date,item_name,quantity,transaction_amount,item_type
+2022-04-01,Sandwich,7,420.0,Fastfood
+2022-04-02,Cold coffee,15,600.0,Beverages
+2022-04-02,Sandwich,15,900.0,Fastfood
+2022-04-03,Aalopuri,10,200.0,Fastfood
+2022-04-03,Panipuri,11,220.0,Fastfood
+2022-04-03,Sandwich,1,60.0,Fastfood
+2022-04-04,Cold coffee,19,760.0,Beverages
+2022-04-04,Sandwich,29,1740.0,Fastfood
+2022-04-05,Frankie,2,100.0,Fastfood
+2022-04-07,Sandwich,24,1440.0,Fastfood
+2022-04-07,Vadapav,3,60.0,Fastfood
+2022-04-08,Frankie,1,50.0,Fastfood
+2022-04-08,Panipuri,11,220.0,Fastfood
+2022-04-08,Vadapav,4,80.0,Fastfood
+2022-04-09,Aalopuri,10,200.0,Fastfood
+2022-04-09,Cold coffee,6,240.0,Beverages
+2022-04-09,Sandwich,1,60.0,Fastfood
+2022-04-09,Vadapav,12,240.0,Fastfood
+2022-04-10,Aalopuri,15,300.0,Fastfood
+2022-04-10,Frankie,4,200.0,Fastfood
+2022-04-10,Vadapav,7,140.0,Fastfood
+2022-04-11,Vadapav,6,120.0,Fastfood
+2022-04-12,Sandwich,1,60.0,Fastfood
+2022-04-12,Vadapav,10,200.0,Fastfood
+2022-04-14,Sandwich,11,660.0,Fastfood
+2022-04-15,Sugarcane juice,3,75.0,Beverages
+2022-04-16,Frankie,6,300.0,Fastfood
+2022-04-16,Sandwich,6,360.0,Fastfood
+2022-04-16,Sugarcane juice,3,75.0,Beverages
+2022-04-17,Frankie,5,250.0,Fastfood
+2022-04-17,Sandwich,12,720.0,Fastfood
+2022-04-17,Sugarcane juice,11,275.0,Beverages
+2022-04-18,Aalopuri,12,240.0,Fastfood
+2022-04-19,Cold coffee,1,40.0,Beverages
+2022-04-19,Sandwich,4,240.0,Fastfood
+2022-04-20,Aalopuri,5,100.0,Fastfood
+2022-04-20,Cold coffee,16,640.0,Beverages
+2022-04-21,Aalopuri,1,20.0,Fastfood
+2022-04-21,Panipuri,8,160.0,Fastfood
+2022-04-21,Sugarcane juice,9,225.0,Beverages
+2022-04-22,Panipuri,14,280.0,Fastfood
+2022-04-23,Panipuri,9,180.0,Fastfood
+2022-04-23,Sandwich,4,240.0,Fastfood
+2022-04-23,Sugarcane juice,13,325.0,Beverages
+2022-04-23,Vadapav,13,260.0,Fastfood
+2022-04-24,Panipuri,3,60.0,Fastfood
+2022-04-24,Vadapav,5,100.0,Fastfood
+2022-04-25,Vadapav,9,180.0,Fastfood
+2022-04-26,Cold coffee,14,560.0,Beverages
+2022-04-26,Vadapav,13,260.0,Fastfood
+2022-04-27,Panipuri,11,220.0,Fastfood
+2022-04-28,Aalopuri,7,140.0,Fastfood
+2022-04-29,Aalopuri,8,160.0,Fastfood
+2022-04-30,Frankie,13,650.0,Fastfood
+2022-04-30,Sandwich,10,600.0,Fastfood
+2022-04-30,Sugarcane juice,13,325.0,Beverages
+2022-04-30,Vadapav,7,140.0,Fastfood
+2022-05-01,Aalopuri,13,260.0,Fastfood
+2022-05-02,Cold coffee,10,400.0,Beverages
+2022-05-03,Panipuri,7,140.0,Fastfood
+2022-05-03,Sandwich,8,480.0,Fastfood
+2022-05-03,Sugarcane juice,9,225.0,Beverages
+2022-05-03,Vadapav,13,260.0,Fastfood
+2022-05-04,Aalopuri,11,220.0,Fastfood
+2022-05-04,Frankie,7,350.0,Fastfood
+2022-05-04,Sugarcane juice,13,325.0,Beverages
+2022-05-04,Vadapav,3,60.0,Fastfood
+2022-05-05,Cold coffee,23,920.0,Beverages
+2022-05-05,Sugarcane juice,13,325.0,Beverages
+2022-05-06,Aalopuri,25,500.0,Fastfood
+2022-05-06,Sugarcane juice,12,300.0,Beverages
+2022-05-07,Aalopuri,11,220.0,Fastfood
+2022-05-07,Cold coffee,8,320.0,Beverages
+2022-05-07,Sandwich,10,600.0,Fastfood
+2022-05-07,Vadapav,7,140.0,Fastfood
+2022-05-08,Frankie,13,650.0,Fastfood
+2022-05-08,Panipuri,11,220.0,Fastfood
+2022-05-08,Sandwich,1,60.0,Fastfood
+2022-05-08,Sugarcane juice,17,425.0,Beverages
+2022-05-09,Aalopuri,8,160.0,Fastfood
+2022-05-09,Cold coffee,28,1120.0,Beverages
+2022-05-09,Frankie,9,450.0,Fastfood
+2022-05-09,Panipuri,14,280.0,Fastfood
+2022-05-09,Sugarcane juice,1,25.0,Beverages
+2022-05-09,Vadapav,15,300.0,Fastfood
+2022-05-10,Frankie,14,700.0,Fastfood
+2022-05-11,Aalopuri,4,80.0,Fastfood
+2022-05-12,Aalopuri,15,300.0,Fastfood
+2022-05-12,Panipuri,10,200.0,Fastfood
+2022-05-12,Sugarcane juice,8,200.0,Beverages
+2022-05-13,Aalopuri,15,300.0,Fastfood
+2022-05-13,Cold coffee,14,560.0,Beverages
+2022-05-13,Sugarcane juice,1,25.0,Beverages
+2022-05-14,Aalopuri,7,140.0,Fastfood
+2022-05-14,Cold coffee,10,400.0,Beverages
+2022-05-14,Frankie,5,250.0,Fastfood
+2022-05-14,Vadapav,2,40.0,Fastfood
+2022-05-15,Aalopuri,21,420.0,Fastfood
+2022-05-15,Cold coffee,2,80.0,Beverages
+2022-05-15,Sandwich,7,420.0,Fastfood
+2022-05-15,Vadapav,15,300.0,Fastfood
+2022-05-16,Aalopuri,2,40.0,Fastfood
+2022-05-16,Frankie,15,750.0,Fastfood
+2022-05-16,Vadapav,15,300.0,Fastfood
+2022-05-17,Panipuri,7,140.0,Fastfood
+2022-05-18,Frankie,13,650.0,Fastfood
+2022-05-18,Vadapav,4,80.0,Fastfood
+2022-05-19,Aalopuri,7,140.0,Fastfood
+2022-05-19,Cold coffee,3,120.0,Beverages
+2022-05-20,Aalopuri,3,60.0,Fastfood
+2022-05-20,Sugarcane juice,18,450.0,Beverages
+2022-05-21,Aalopuri,25,500.0,Fastfood
+2022-05-21,Cold coffee,13,520.0,Beverages
+2022-05-21,Sandwich,2,120.0,Fastfood
+2022-05-22,Frankie,12,600.0,Fastfood
+2022-05-22,Sandwich,26,1560.0,Fastfood
+2022-05-22,Vadapav,8,160.0,Fastfood
+2022-05-23,Aalopuri,3,60.0,Fastfood
+2022-05-23,Vadapav,3,60.0,Fastfood
+2022-05-24,Cold coffee,3,120.0,Beverages
+2022-05-24,Frankie,13,650.0,Fastfood
+2022-05-25,Frankie,11,550.0,Fastfood
+2022-05-25,Panipuri,2,40.0,Fastfood
+2022-05-25,Sandwich,2,120.0,Fastfood
+2022-05-25,Sugarcane juice,14,350.0,Beverages
+2022-05-26,Sandwich,3,180.0,Fastfood
+2022-05-26,Sugarcane juice,14,350.0,Beverages
+2022-05-26,Vadapav,1,20.0,Fastfood
+2022-05-27,Aalopuri,10,200.0,Fastfood
+2022-05-27,Frankie,7,350.0,Fastfood
+2022-05-27,Panipuri,14,280.0,Fastfood
+2022-05-27,Sandwich,16,960.0,Fastfood
+2022-05-27,Vadapav,13,260.0,Fastfood
+2022-05-28,Panipuri,5,100.0,Fastfood
+2022-05-28,Vadapav,15,300.0,Fastfood
+2022-05-29,Aalopuri,11,220.0,Fastfood
+2022-05-30,Cold coffee,3,120.0,Beverages
+2022-05-30,Frankie,10,500.0,Fastfood
+2022-05-31,Frankie,8,400.0,Fastfood
+2022-05-31,Vadapav,2,40.0,Fastfood
+2022-06-01,Panipuri,6,120.0,Fastfood
+2022-06-02,Cold coffee,4,160.0,Beverages
+2022-06-04,Panipuri,2,40.0,Fastfood
+2022-06-05,Panipuri,7,140.0,Fastfood
+2022-06-05,Vadapav,3,60.0,Fastfood
+2022-06-06,Aalopuri,11,220.0,Fastfood
+2022-06-06,Frankie,9,450.0,Fastfood
+2022-06-06,Sugarcane juice,6,150.0,Beverages
+2022-06-07,Frankie,8,400.0,Fastfood
+2022-06-07,Sugarcane juice,1,25.0,Beverages
+2022-06-08,Vadapav,14,280.0,Fastfood
+2022-06-09,Cold coffee,13,520.0,Beverages
+2022-06-10,Cold coffee,8,320.0,Beverages
+2022-06-10,Panipuri,1,20.0,Fastfood
+2022-06-10,Vadapav,5,100.0,Fastfood
+2022-06-11,Cold coffee,2,80.0,Beverages
+2022-06-11,Frankie,13,650.0,Fastfood
+2022-06-11,Sandwich,6,360.0,Fastfood
+2022-06-12,Frankie,13,650.0,Fastfood
+2022-06-13,Frankie,6,300.0,Fastfood
+2022-06-13,Panipuri,8,160.0,Fastfood
+2022-06-14,Frankie,1,50.0,Fastfood
+2022-06-15,Aalopuri,4,80.0,Fastfood
+2022-06-15,Sandwich,13,780.0,Fastfood
+2022-06-16,Frankie,12,600.0,Fastfood
+2022-06-16,Vadapav,3,60.0,Fastfood
+2022-06-17,Panipuri,12,240.0,Fastfood
+2022-06-17,Sandwich,15,900.0,Fastfood
+2022-06-18,Sugarcane juice,19,475.0,Beverages
+2022-06-19,Frankie,6,300.0,Fastfood
+2022-06-19,Panipuri,2,40.0,Fastfood
+2022-06-19,Sandwich,10,600.0,Fastfood
+2022-06-20,Cold coffee,5,200.0,Beverages
+2022-06-20,Vadapav,15,300.0,Fastfood
+2022-06-22,Panipuri,4,80.0,Fastfood
+2022-06-22,Sugarcane juice,15,375.0,Beverages
+2022-06-24,Frankie,7,350.0,Fastfood
+2022-06-24,Panipuri,9,180.0,Fastfood
+2022-06-25,Aalopuri,2,40.0,Fastfood
+2022-06-25,Frankie,10,500.0,Fastfood
+2022-06-25,Sandwich,3,180.0,Fastfood
+2022-06-25,Sugarcane juice,19,475.0,Beverages
+2022-06-26,Aalopuri,15,300.0,Fastfood
+2022-06-26,Panipuri,9,180.0,Fastfood
+2022-06-26,Sugarcane juice,1,25.0,Beverages
+2022-06-26,Vadapav,12,240.0,Fastfood
+2022-06-27,Aalopuri,8,160.0,Fastfood
+2022-06-27,Frankie,10,500.0,Fastfood
+2022-06-28,Aalopuri,3,60.0,Fastfood
+2022-06-28,Frankie,13,650.0,Fastfood
+2022-06-28,Sugarcane juice,2,50.0,Beverages
+2022-06-29,Cold coffee,14,560.0,Beverages
+2022-06-30,Frankie,20,1000.0,Fastfood
+2022-06-30,Panipuri,8,160.0,Fastfood
+2022-06-30,Sandwich,17,1020.0,Fastfood
+2022-06-30,Sugarcane juice,12,300.0,Beverages
+2022-06-30,Vadapav,6,120.0,Fastfood
+2022-07-01,Cold coffee,19,760.0,Beverages
+2022-07-01,Panipuri,10,200.0,Fastfood
+2022-07-01,Sugarcane juice,7,175.0,Beverages
+2022-07-01,Vadapav,5,100.0,Fastfood
+2022-07-02,Cold coffee,11,440.0,Beverages
+2022-07-02,Panipuri,15,300.0,Fastfood
+2022-07-02,Sugarcane juice,11,275.0,Beverages
+2022-07-03,Aalopuri,13,260.0,Fastfood
+2022-07-03,Cold coffee,2,80.0,Beverages
+2022-07-03,Sandwich,2,120.0,Fastfood
+2022-07-04,Sandwich,10,600.0,Fastfood
+2022-07-04,Sugarcane juice,1,25.0,Beverages
+2022-07-04,Vadapav,20,400.0,Fastfood
+2022-07-05,Panipuri,15,300.0,Fastfood
+2022-07-06,Aalopuri,2,40.0,Fastfood
+2022-07-06,Sandwich,1,60.0,Fastfood
+2022-07-07,Cold coffee,10,400.0,Beverages
+2022-07-08,Frankie,5,250.0,Fastfood
+2022-07-08,Panipuri,10,200.0,Fastfood
+2022-07-09,Aalopuri,1,20.0,Fastfood
+2022-07-09,Vadapav,8,160.0,Fastfood
+2022-07-10,Frankie,15,750.0,Fastfood
+2022-07-10,Sandwich,7,420.0,Fastfood
+2022-07-10,Sugarcane juice,5,125.0,Beverages
+2022-07-11,Sandwich,25,1500.0,Fastfood
+2022-07-12,Frankie,13,650.0,Fastfood
+2022-07-12,Vadapav,8,160.0,Fastfood
+2022-07-13,Sugarcane juice,12,300.0,Beverages
+2022-07-14,Sandwich,12,720.0,Fastfood
+2022-07-14,Sugarcane juice,7,175.0,Beverages
+2022-07-15,Vadapav,6,120.0,Fastfood
+2022-07-16,Aalopuri,5,100.0,Fastfood
+2022-07-16,Cold coffee,10,400.0,Beverages
+2022-07-17,Aalopuri,12,240.0,Fastfood
+2022-07-17,Frankie,6,300.0,Fastfood
+2022-07-17,Sugarcane juice,13,325.0,Beverages
+2022-07-18,Sugarcane juice,27,675.0,Beverages
+2022-07-19,Frankie,3,150.0,Fastfood
+2022-07-19,Sugarcane juice,23,575.0,Beverages
+2022-07-20,Frankie,6,300.0,Fastfood
+2022-07-20,Panipuri,3,60.0,Fastfood
+2022-07-21,Panipuri,12,240.0,Fastfood
+2022-07-21,Sandwich,7,420.0,Fastfood
+2022-07-21,Sugarcane juice,4,100.0,Beverages
+2022-07-22,Aalopuri,1,20.0,Fastfood
+2022-07-22,Sugarcane juice,5,125.0,Beverages
+2022-07-23,Vadapav,10,200.0,Fastfood
+2022-07-24,Aalopuri,12,240.0,Fastfood
+2022-07-24,Frankie,10,500.0,Fastfood
+2022-07-25,Aalopuri,4,80.0,Fastfood
+2022-07-25,Sandwich,9,540.0,Fastfood
+2022-07-26,Aalopuri,13,260.0,Fastfood
+2022-07-26,Panipuri,13,260.0,Fastfood
+2022-07-26,Sandwich,9,540.0,Fastfood
+2022-07-27,Aalopuri,4,80.0,Fastfood
+2022-07-27,Panipuri,16,320.0,Fastfood
+2022-07-27,Sandwich,8,480.0,Fastfood
+2022-07-27,Vadapav,6,120.0,Fastfood
+2022-07-29,Frankie,5,250.0,Fastfood
+2022-07-29,Panipuri,5,100.0,Fastfood
+2022-07-30,Aalopuri,9,180.0,Fastfood
+2022-07-30,Panipuri,12,240.0,Fastfood
+2022-07-30,Sugarcane juice,7,175.0,Beverages
+2022-07-31,Cold coffee,9,360.0,Beverages
+2022-07-31,Frankie,7,350.0,Fastfood
+2022-07-31,Panipuri,5,100.0,Fastfood
+2022-08-01,Frankie,5,250.0,Fastfood
+2022-08-02,Cold coffee,15,600.0,Beverages
+2022-08-02,Panipuri,4,80.0,Fastfood
+2022-08-03,Sugarcane juice,7,175.0,Beverages
+2022-08-03,Vadapav,1,20.0,Fastfood
+2022-08-04,Panipuri,15,300.0,Fastfood
+2022-08-04,Sugarcane juice,9,225.0,Beverages
+2022-08-05,Sandwich,9,540.0,Fastfood
+2022-08-05,Sugarcane juice,5,125.0,Beverages
+2022-08-05,Vadapav,15,300.0,Fastfood
+2022-08-06,Aalopuri,3,60.0,Fastfood
+2022-08-06,Panipuri,5,100.0,Fastfood
+2022-08-07,Vadapav,11,220.0,Fastfood
+2022-08-08,Cold coffee,12,480.0,Beverages
+2022-08-08,Panipuri,5,100.0,Fastfood
+2022-08-09,Cold coffee,15,600.0,Beverages
+2022-08-09,Frankie,4,200.0,Fastfood
+2022-08-09,Sandwich,10,600.0,Fastfood
+2022-08-09,Sugarcane juice,14,350.0,Beverages
+2022-08-10,Panipuri,19,380.0,Fastfood
+2022-08-10,Sugarcane juice,21,525.0,Beverages
+2022-08-12,Frankie,15,750.0,Fastfood
+2022-08-12,Sandwich,6,360.0,Fastfood
+2022-08-12,Sugarcane juice,15,375.0,Beverages
+2022-08-13,Frankie,10,500.0,Fastfood
+2022-08-13,Panipuri,12,240.0,Fastfood
+2022-08-13,Sugarcane juice,7,175.0,Beverages
+2022-08-13,Vadapav,6,120.0,Fastfood
+2022-08-14,Aalopuri,10,200.0,Fastfood
+2022-08-14,Cold coffee,7,280.0,Beverages
+2022-08-14,Panipuri,11,220.0,Fastfood
+2022-08-14,Sandwich,15,900.0,Fastfood
+2022-08-15,Cold coffee,10,400.0,Beverages
+2022-08-15,Panipuri,20,400.0,Fastfood
+2022-08-15,Sugarcane juice,6,150.0,Beverages
+2022-08-15,Vadapav,6,120.0,Fastfood
+2022-08-16,Aalopuri,11,220.0,Fastfood
+2022-08-16,Cold coffee,9,360.0,Beverages
+2022-08-17,Aalopuri,13,260.0,Fastfood
+2022-08-17,Panipuri,19,380.0,Fastfood
+2022-08-17,Vadapav,9,180.0,Fastfood
+2022-08-18,Panipuri,6,120.0,Fastfood
+2022-08-18,Sugarcane juice,4,100.0,Beverages
+2022-08-19,Aalopuri,3,60.0,Fastfood
+2022-08-20,Cold coffee,20,800.0,Beverages
+2022-08-20,Vadapav,3,60.0,Fastfood
+2022-08-21,Aalopuri,12,240.0,Fastfood
+2022-08-21,Panipuri,4,80.0,Fastfood
+2022-08-22,Aalopuri,6,120.0,Fastfood
+2022-08-22,Panipuri,11,220.0,Fastfood
+2022-08-22,Sandwich,22,1320.0,Fastfood
+2022-08-22,Sugarcane juice,7,175.0,Beverages
+2022-08-23,Vadapav,15,300.0,Fastfood
+2022-08-24,Aalopuri,20,400.0,Fastfood
+2022-08-24,Cold coffee,8,320.0,Beverages
+2022-08-24,Panipuri,10,200.0,Fastfood
+2022-08-25,Aalopuri,5,100.0,Fastfood
+2022-08-25,Cold coffee,5,200.0,Beverages
+2022-08-26,Cold coffee,21,840.0,Beverages
+2022-08-26,Sugarcane juice,13,325.0,Beverages
+2022-08-27,Aalopuri,23,460.0,Fastfood
+2022-08-27,Panipuri,5,100.0,Fastfood
+2022-08-27,Sugarcane juice,6,150.0,Beverages
+2022-08-27,Vadapav,5,100.0,Fastfood
+2022-08-28,Cold coffee,12,480.0,Beverages
+2022-08-28,Sugarcane juice,15,375.0,Beverages
+2022-08-30,Sandwich,6,360.0,Fastfood
+2022-08-30,Vadapav,14,280.0,Fastfood
+2022-08-31,Cold coffee,17,680.0,Beverages
+2022-08-31,Sandwich,1,60.0,Fastfood
+2022-08-31,Vadapav,23,460.0,Fastfood
+2022-09-01,Panipuri,2,40.0,Fastfood
+2022-09-01,Sandwich,15,900.0,Fastfood
+2022-09-03,Aalopuri,2,40.0,Fastfood
+2022-09-03,Sugarcane juice,13,325.0,Beverages
+2022-09-04,Sandwich,13,780.0,Fastfood
+2022-09-05,Sandwich,4,240.0,Fastfood
+2022-09-05,Sugarcane juice,12,300.0,Beverages
+2022-09-05,Vadapav,8,160.0,Fastfood
+2022-09-06,Cold coffee,7,280.0,Beverages
+2022-09-06,Vadapav,14,280.0,Fastfood
+2022-09-07,Frankie,2,100.0,Fastfood
+2022-09-07,Panipuri,3,60.0,Fastfood
+2022-09-07,Sandwich,13,780.0,Fastfood
+2022-09-08,Frankie,19,950.0,Fastfood
+2022-09-08,Panipuri,2,40.0,Fastfood
+2022-09-09,Cold coffee,1,40.0,Beverages
+2022-09-09,Frankie,4,200.0,Fastfood
+2022-09-09,Sugarcane juice,4,100.0,Beverages
+2022-09-10,Sugarcane juice,2,50.0,Beverages
+2022-09-11,Aalopuri,2,40.0,Fastfood
+2022-09-11,Panipuri,1,20.0,Fastfood
+2022-09-11,Sandwich,6,360.0,Fastfood
+2022-09-11,Sugarcane juice,3,75.0,Beverages
+2022-09-12,Sugarcane juice,23,575.0,Beverages
+2022-09-14,Aalopuri,15,300.0,Fastfood
+2022-09-14,Cold coffee,13,520.0,Beverages
+2022-09-14,Panipuri,12,240.0,Fastfood
+2022-09-14,Vadapav,30,600.0,Fastfood
+2022-09-15,Aalopuri,9,180.0,Fastfood
+2022-09-15,Cold coffee,10,400.0,Beverages
+2022-09-15,Sugarcane juice,4,100.0,Beverages
+2022-09-16,Panipuri,5,100.0,Fastfood
+2022-09-16,Vadapav,2,40.0,Fastfood
+2022-09-17,Aalopuri,6,120.0,Fastfood
+2022-09-17,Sandwich,12,720.0,Fastfood
+2022-09-18,Aalopuri,15,300.0,Fastfood
+2022-09-18,Frankie,8,400.0,Fastfood
+2022-09-18,Vadapav,5,100.0,Fastfood
+2022-09-19,Cold coffee,13,520.0,Beverages
+2022-09-19,Vadapav,1,20.0,Fastfood
+2022-09-20,Frankie,13,650.0,Fastfood
+2022-09-20,Sandwich,21,1260.0,Fastfood
+2022-09-21,Aalopuri,9,180.0,Fastfood
+2022-09-21,Cold coffee,18,720.0,Beverages
+2022-09-21,Panipuri,14,280.0,Fastfood
+2022-09-21,Sandwich,9,540.0,Fastfood
+2022-09-21,Vadapav,14,280.0,Fastfood
+2022-09-22,Panipuri,8,160.0,Fastfood
+2022-09-22,Sugarcane juice,12,300.0,Beverages
+2022-09-23,Aalopuri,1,20.0,Fastfood
+2022-09-24,Aalopuri,14,280.0,Fastfood
+2022-09-25,Cold coffee,3,120.0,Beverages
+2022-09-25,Frankie,6,300.0,Fastfood
+2022-09-25,Panipuri,13,260.0,Fastfood
+2022-09-25,Vadapav,3,60.0,Fastfood
+2022-09-27,Cold coffee,2,80.0,Beverages
+2022-09-27,Panipuri,15,300.0,Fastfood
+2022-09-27,Sugarcane juice,7,175.0,Beverages
+2022-09-28,Frankie,4,200.0,Fastfood
+2022-09-28,Vadapav,3,60.0,Fastfood
+2022-09-29,Vadapav,11,220.0,Fastfood
+2022-09-30,Frankie,13,650.0,Fastfood
+2022-09-30,Sugarcane juice,6,150.0,Beverages
+2022-10-01,Aalopuri,9,180.0,Fastfood
+2022-10-01,Panipuri,5,100.0,Fastfood
+2022-10-01,Sandwich,13,780.0,Fastfood
+2022-10-01,Vadapav,4,80.0,Fastfood
+2022-10-02,Cold coffee,2,80.0,Beverages
+2022-10-02,Frankie,12,600.0,Fastfood
+2022-10-02,Sugarcane juice,13,325.0,Beverages
+2022-10-02,Vadapav,12,240.0,Fastfood
+2022-10-03,Frankie,13,650.0,Fastfood
+2022-10-03,Sugarcane juice,7,175.0,Beverages
+2022-10-03,Vadapav,2,40.0,Fastfood
+2022-10-04,Cold coffee,10,400.0,Beverages
+2022-10-04,Sugarcane juice,12,300.0,Beverages
+2022-10-05,Vadapav,32,640.0,Fastfood
+2022-10-06,Cold coffee,2,80.0,Beverages
+2022-10-07,Cold coffee,7,280.0,Beverages
+2022-10-07,Frankie,7,350.0,Fastfood
+2022-10-07,Sandwich,6,360.0,Fastfood
+2022-10-08,Frankie,7,350.0,Fastfood
+2022-10-08,Sandwich,11,660.0,Fastfood
+2022-10-08,Sugarcane juice,14,350.0,Beverages
+2022-10-09,Cold coffee,12,480.0,Beverages
+2022-10-09,Panipuri,15,300.0,Fastfood
+2022-10-09,Sandwich,30,1800.0,Fastfood
+2022-10-10,Aalopuri,12,240.0,Fastfood
+2022-10-11,Aalopuri,29,580.0,Fastfood
+2022-10-11,Cold coffee,27,1080.0,Beverages
+2022-10-11,Frankie,7,350.0,Fastfood
+2022-10-11,Sugarcane juice,23,575.0,Beverages
+2022-10-12,Cold coffee,11,440.0,Beverages
+2022-10-12,Vadapav,10,200.0,Fastfood
+2022-10-13,Cold coffee,4,160.0,Beverages
+2022-10-13,Frankie,7,350.0,Fastfood
+2022-10-13,Panipuri,10,200.0,Fastfood
+2022-10-14,Cold coffee,14,560.0,Beverages
+2022-10-14,Sandwich,8,480.0,Fastfood
+2022-10-14,Sugarcane juice,13,325.0,Beverages
+2022-10-15,Aalopuri,14,280.0,Fastfood
+2022-10-16,Cold coffee,18,720.0,Beverages
+2022-10-16,Panipuri,11,220.0,Fastfood
+2022-10-16,Sugarcane juice,4,100.0,Beverages
+2022-10-17,Aalopuri,11,220.0,Fastfood
+2022-10-17,Frankie,12,600.0,Fastfood
+2022-10-17,Sugarcane juice,3,75.0,Beverages
+2022-10-17,Vadapav,4,80.0,Fastfood
+2022-10-18,Sandwich,9,540.0,Fastfood
+2022-10-18,Sugarcane juice,13,325.0,Beverages
+2022-10-18,Vadapav,5,100.0,Fastfood
+2022-10-19,Cold coffee,4,160.0,Beverages
+2022-10-19,Panipuri,13,260.0,Fastfood
+2022-10-20,Aalopuri,13,260.0,Fastfood
+2022-10-20,Sandwich,6,360.0,Fastfood
+2022-10-20,Sugarcane juice,2,50.0,Beverages
+2022-10-21,Frankie,7,350.0,Fastfood
+2022-10-21,Sandwich,5,300.0,Fastfood
+2022-10-21,Sugarcane juice,10,250.0,Beverages
+2022-10-22,Aalopuri,1,20.0,Fastfood
+2022-10-22,Sandwich,14,840.0,Fastfood
+2022-10-22,Sugarcane juice,1,25.0,Beverages
+2022-10-23,Panipuri,13,260.0,Fastfood
+2022-10-23,Vadapav,5,100.0,Fastfood
+2022-10-24,Aalopuri,3,60.0,Fastfood
+2022-10-24,Cold coffee,27,1080.0,Beverages
+2022-10-26,Sugarcane juice,3,75.0,Beverages
+2022-10-26,Vadapav,13,260.0,Fastfood
+2022-10-27,Aalopuri,6,120.0,Fastfood
+2022-10-27,Cold coffee,13,520.0,Beverages
+2022-10-27,Sugarcane juice,14,350.0,Beverages
+2022-10-28,Frankie,4,200.0,Fastfood
+2022-10-28,Panipuri,9,180.0,Fastfood
+2022-10-29,Sugarcane juice,4,100.0,Beverages
+2022-10-29,Vadapav,15,300.0,Fastfood
+2022-10-30,Aalopuri,16,320.0,Fastfood
+2022-10-30,Panipuri,14,280.0,Fastfood
+2022-10-30,Sugarcane juice,11,275.0,Beverages
+2022-10-31,Cold coffee,5,200.0,Beverages
+2022-10-31,Frankie,25,1250.0,Fastfood
+2022-11-01,Aalopuri,12,240.0,Fastfood
+2022-11-01,Panipuri,12,240.0,Fastfood
+2022-11-02,Aalopuri,1,20.0,Fastfood
+2022-11-02,Frankie,4,200.0,Fastfood
+2022-11-02,Sandwich,19,1140.0,Fastfood
+2022-11-02,Vadapav,8,160.0,Fastfood
+2022-11-03,Cold coffee,10,400.0,Beverages
+2022-11-03,Frankie,6,300.0,Fastfood
+2022-11-04,Aalopuri,13,260.0,Fastfood
+2022-11-05,Frankie,9,450.0,Fastfood
+2022-11-05,Panipuri,24,480.0,Fastfood
+2022-11-05,Sandwich,4,240.0,Fastfood
+2022-11-06,Cold coffee,34,1360.0,Beverages
+2022-11-06,Frankie,4,200.0,Fastfood
+2022-11-07,Cold coffee,10,400.0,Beverages
+2022-11-08,Panipuri,23,460.0,Fastfood
+2022-11-08,Sugarcane juice,14,350.0,Beverages
+2022-11-09,Panipuri,1,20.0,Fastfood
+2022-11-10,Frankie,9,450.0,Fastfood
+2022-11-10,Sandwich,2,120.0,Fastfood
+2022-11-11,Panipuri,25,500.0,Fastfood
+2022-11-12,Cold coffee,7,280.0,Beverages
+2022-11-12,Panipuri,11,220.0,Fastfood
+2022-11-12,Sandwich,3,180.0,Fastfood
+2022-11-13,Cold coffee,11,440.0,Beverages
+2022-11-13,Frankie,11,550.0,Fastfood
+2022-11-14,Sugarcane juice,1,25.0,Beverages
+2022-11-14,Vadapav,10,200.0,Fastfood
+2022-11-15,Cold coffee,15,600.0,Beverages
+2022-11-15,Frankie,6,300.0,Fastfood
+2022-11-15,Sugarcane juice,6,150.0,Beverages
+2022-11-16,Panipuri,2,40.0,Fastfood
+2022-11-16,Vadapav,10,200.0,Fastfood
+2022-11-17,Cold coffee,20,800.0,Beverages
+2022-11-17,Panipuri,23,460.0,Fastfood
+2022-11-18,Panipuri,14,280.0,Fastfood
+2022-11-18,Sandwich,4,240.0,Fastfood
+2022-11-19,Frankie,24,1200.0,Fastfood
+2022-11-20,Aalopuri,2,40.0,Fastfood
+2022-11-20,Panipuri,12,240.0,Fastfood
+2022-11-20,Vadapav,1,20.0,Fastfood
+2022-11-21,Aalopuri,5,100.0,Fastfood
+2022-11-22,Cold coffee,9,360.0,Beverages
+2022-11-22,Sandwich,10,600.0,Fastfood
+2022-11-23,Aalopuri,15,300.0,Fastfood
+2022-11-23,Frankie,9,450.0,Fastfood
+2022-11-23,Panipuri,11,220.0,Fastfood
+2022-11-24,Cold coffee,3,120.0,Beverages
+2022-11-24,Sandwich,7,420.0,Fastfood
+2022-11-24,Vadapav,10,200.0,Fastfood
+2022-11-25,Cold coffee,15,600.0,Beverages
+2022-11-25,Frankie,4,200.0,Fastfood
+2022-11-26,Cold coffee,11,440.0,Beverages
+2022-11-26,Frankie,7,350.0,Fastfood
+2022-11-26,Panipuri,10,200.0,Fastfood
+2022-11-27,Sugarcane juice,23,575.0,Beverages
+2022-11-28,Aalopuri,14,280.0,Fastfood
+2022-11-28,Cold coffee,9,360.0,Beverages
+2022-11-28,Sandwich,6,360.0,Fastfood
+2022-11-28,Sugarcane juice,1,25.0,Beverages
+2022-11-28,Vadapav,8,160.0,Fastfood
+2022-11-29,Frankie,15,750.0,Fastfood
+2022-11-29,Sandwich,10,600.0,Fastfood
+2022-11-29,Sugarcane juice,13,325.0,Beverages
+2022-11-30,Panipuri,10,200.0,Fastfood
+2022-11-30,Sugarcane juice,10,250.0,Beverages
+2022-12-01,Frankie,8,400.0,Fastfood
+2022-12-01,Sandwich,7,420.0,Fastfood
+2022-12-01,Vadapav,6,120.0,Fastfood
+2022-12-02,Cold coffee,6,240.0,Beverages
+2022-12-02,Sandwich,15,900.0,Fastfood
+2022-12-02,Sugarcane juice,14,350.0,Beverages
+2022-12-03,Aalopuri,1,20.0,Fastfood
+2022-12-03,Panipuri,9,180.0,Fastfood
+2022-12-03,Sugarcane juice,14,350.0,Beverages
+2022-12-04,Aalopuri,2,40.0,Fastfood
+2022-12-04,Cold coffee,15,600.0,Beverages
+2022-12-04,Frankie,19,950.0,Fastfood
+2022-12-04,Sugarcane juice,7,175.0,Beverages
+2022-12-05,Cold coffee,6,240.0,Beverages
+2022-12-05,Vadapav,12,240.0,Fastfood
+2022-12-07,Aalopuri,2,40.0,Fastfood
+2022-12-07,Sugarcane juice,9,225.0,Beverages
+2022-12-07,Vadapav,14,280.0,Fastfood
+2022-12-08,Cold coffee,13,520.0,Beverages
+2022-12-09,Aalopuri,8,160.0,Fastfood
+2022-12-09,Cold coffee,9,360.0,Beverages
+2022-12-09,Frankie,9,450.0,Fastfood
+2022-12-10,Sandwich,1,60.0,Fastfood
+2022-12-10,Sugarcane juice,8,200.0,Beverages
+2022-12-11,Sandwich,10,600.0,Fastfood
+2022-12-12,Aalopuri,21,420.0,Fastfood
+2022-12-12,Panipuri,10,200.0,Fastfood
+2022-12-13,Frankie,15,750.0,Fastfood
+2022-12-13,Sugarcane juice,10,250.0,Beverages
+2022-12-13,Vadapav,3,60.0,Fastfood
+2022-12-14,Aalopuri,14,280.0,Fastfood
+2022-12-14,Panipuri,13,260.0,Fastfood
+2022-12-14,Sandwich,15,900.0,Fastfood
+2022-12-14,Sugarcane juice,14,350.0,Beverages
+2022-12-14,Vadapav,6,120.0,Fastfood
+2022-12-15,Panipuri,7,140.0,Fastfood
+2022-12-15,Vadapav,13,260.0,Fastfood
+2022-12-16,Aalopuri,5,100.0,Fastfood
+2022-12-16,Panipuri,2,40.0,Fastfood
+2022-12-17,Cold coffee,2,80.0,Beverages
+2022-12-17,Panipuri,14,280.0,Fastfood
+2022-12-17,Sandwich,13,780.0,Fastfood
+2022-12-17,Vadapav,3,60.0,Fastfood
+2022-12-18,Vadapav,10,200.0,Fastfood
+2022-12-19,Vadapav,2,40.0,Fastfood
+2022-12-20,Aalopuri,5,100.0,Fastfood
+2022-12-21,Aalopuri,10,200.0,Fastfood
+2022-12-21,Cold coffee,28,1120.0,Beverages
+2022-12-22,Panipuri,25,500.0,Fastfood
+2022-12-22,Sandwich,12,720.0,Fastfood
+2022-12-23,Aalopuri,14,280.0,Fastfood
+2022-12-23,Cold coffee,17,680.0,Beverages
+2022-12-24,Panipuri,6,120.0,Fastfood
+2022-12-24,Sugarcane juice,8,200.0,Beverages
+2022-12-24,Vadapav,9,180.0,Fastfood
+2022-12-25,Cold coffee,10,400.0,Beverages
+2022-12-25,Frankie,5,250.0,Fastfood
+2022-12-25,Sugarcane juice,24,600.0,Beverages
+2022-12-25,Vadapav,14,280.0,Fastfood
+2022-12-26,Cold coffee,20,800.0,Beverages
+2022-12-27,Cold coffee,11,440.0,Beverages
+2022-12-27,Sugarcane juice,9,225.0,Beverages
+2022-12-27,Vadapav,3,60.0,Fastfood
+2022-12-28,Aalopuri,2,40.0,Fastfood
+2022-12-28,Cold coffee,1,40.0,Beverages
+2022-12-28,Panipuri,28,560.0,Fastfood
+2022-12-28,Sugarcane juice,7,175.0,Beverages
+2022-12-29,Aalopuri,4,80.0,Fastfood
+2022-12-29,Panipuri,25,500.0,Fastfood
+2022-12-29,Sugarcane juice,14,350.0,Beverages
+2022-12-30,Sugarcane juice,14,350.0,Beverages
+2022-12-31,Cold coffee,13,520.0,Beverages
+2023-01-01,Aalopuri,15,300.0,Fastfood
+2023-01-01,Sandwich,13,780.0,Fastfood
+2023-01-02,Aalopuri,12,240.0,Fastfood
+2023-01-02,Cold coffee,15,600.0,Beverages
+2023-01-02,Sugarcane juice,17,425.0,Beverages
+2023-01-03,Cold coffee,8,320.0,Beverages
+2023-01-03,Frankie,13,650.0,Fastfood
+2023-01-03,Sandwich,10,600.0,Fastfood
+2023-01-03,Sugarcane juice,11,275.0,Beverages
+2023-01-03,Vadapav,8,160.0,Fastfood
+2023-01-04,Panipuri,13,260.0,Fastfood
+2023-01-04,Sandwich,15,900.0,Fastfood
+2023-01-04,Sugarcane juice,10,250.0,Beverages
+2023-01-04,Vadapav,3,60.0,Fastfood
+2023-01-05,Aalopuri,1,20.0,Fastfood
+2023-01-05,Frankie,35,1750.0,Fastfood
+2023-01-05,Sandwich,11,660.0,Fastfood
+2023-01-06,Cold coffee,10,400.0,Beverages
+2023-01-06,Frankie,6,300.0,Fastfood
+2023-01-06,Sandwich,12,720.0,Fastfood
+2023-01-06,Sugarcane juice,6,150.0,Beverages
+2023-01-07,Frankie,3,150.0,Fastfood
+2023-01-07,Panipuri,1,20.0,Fastfood
+2023-01-10,Cold coffee,7,280.0,Beverages
+2023-01-10,Panipuri,7,140.0,Fastfood
+2023-01-10,Vadapav,16,320.0,Fastfood
+2023-01-11,Frankie,9,450.0,Fastfood
+2023-01-11,Panipuri,20,400.0,Fastfood
+2023-01-11,Sugarcane juice,11,275.0,Beverages
+2023-01-12,Aalopuri,13,260.0,Fastfood
+2023-01-12,Sandwich,14,840.0,Fastfood
+2023-01-13,Frankie,14,700.0,Fastfood
+2023-01-13,Panipuri,6,120.0,Fastfood
+2023-01-13,Sugarcane juice,15,375.0,Beverages
+2023-01-14,Aalopuri,8,160.0,Fastfood
+2023-01-14,Cold coffee,13,520.0,Beverages
+2023-01-15,Aalopuri,1,20.0,Fastfood
+2023-01-15,Sugarcane juice,12,300.0,Beverages
+2023-01-16,Frankie,2,100.0,Fastfood
+2023-01-16,Panipuri,17,340.0,Fastfood
+2023-01-16,Sandwich,23,1380.0,Fastfood
+2023-01-17,Frankie,6,300.0,Fastfood
+2023-01-18,Sandwich,7,420.0,Fastfood
+2023-01-18,Sugarcane juice,5,125.0,Beverages
+2023-01-18,Vadapav,2,40.0,Fastfood
+2023-01-19,Sandwich,8,480.0,Fastfood
+2023-01-19,Sugarcane juice,12,300.0,Beverages
+2023-01-20,Cold coffee,2,80.0,Beverages
+2023-01-20,Frankie,20,1000.0,Fastfood
+2023-01-20,Sugarcane juice,9,225.0,Beverages
+2023-01-21,Cold coffee,13,520.0,Beverages
+2023-01-21,Panipuri,2,40.0,Fastfood
+2023-01-21,Sugarcane juice,15,375.0,Beverages
+2023-01-22,Panipuri,15,300.0,Fastfood
+2023-01-23,Sandwich,7,420.0,Fastfood
+2023-01-23,Sugarcane juice,6,150.0,Beverages
+2023-01-24,Aalopuri,7,140.0,Fastfood
+2023-01-24,Sugarcane juice,8,200.0,Beverages
+2023-01-25,Panipuri,20,400.0,Fastfood
+2023-01-25,Sandwich,7,420.0,Fastfood
+2023-01-26,Frankie,15,750.0,Fastfood
+2023-01-26,Sandwich,13,780.0,Fastfood
+2023-01-26,Vadapav,14,280.0,Fastfood
+2023-01-27,Frankie,8,400.0,Fastfood
+2023-01-27,Panipuri,14,280.0,Fastfood
+2023-01-27,Sugarcane juice,7,175.0,Beverages
+2023-01-28,Aalopuri,15,300.0,Fastfood
+2023-01-28,Frankie,2,100.0,Fastfood
+2023-01-28,Panipuri,7,140.0,Fastfood
+2023-01-28,Vadapav,13,260.0,Fastfood
+2023-01-29,Frankie,7,350.0,Fastfood
+2023-01-30,Cold coffee,14,560.0,Beverages
+2023-01-30,Frankie,13,650.0,Fastfood
+2023-01-31,Aalopuri,4,80.0,Fastfood
+2023-01-31,Cold coffee,12,480.0,Beverages
+2023-01-31,Sandwich,3,180.0,Fastfood
+2023-02-01,Cold coffee,15,600.0,Beverages
+2023-02-01,Frankie,7,350.0,Fastfood
+2023-02-02,Aalopuri,10,200.0,Fastfood
+2023-02-02,Cold coffee,6,240.0,Beverages
+2023-02-03,Aalopuri,3,60.0,Fastfood
+2023-02-03,Frankie,23,1150.0,Fastfood
+2023-02-03,Panipuri,5,100.0,Fastfood
+2023-02-03,Sugarcane juice,6,150.0,Beverages
+2023-02-03,Vadapav,15,300.0,Fastfood
+2023-02-04,Frankie,12,600.0,Fastfood
+2023-02-04,Sugarcane juice,12,300.0,Beverages
+2023-02-04,Vadapav,15,300.0,Fastfood
+2023-02-05,Aalopuri,13,260.0,Fastfood
+2023-02-05,Cold coffee,27,1080.0,Beverages
+2023-02-05,Frankie,10,500.0,Fastfood
+2023-02-05,Sandwich,5,300.0,Fastfood
+2023-02-05,Sugarcane juice,1,25.0,Beverages
+2023-02-06,Aalopuri,3,60.0,Fastfood
+2023-02-06,Panipuri,7,140.0,Fastfood
+2023-02-06,Vadapav,15,300.0,Fastfood
+2023-02-07,Aalopuri,14,280.0,Fastfood
+2023-02-07,Frankie,10,500.0,Fastfood
+2023-02-07,Sandwich,4,240.0,Fastfood
+2023-02-07,Sugarcane juice,24,600.0,Beverages
+2023-02-08,Frankie,12,600.0,Fastfood
+2023-02-08,Panipuri,3,60.0,Fastfood
+2023-02-08,Vadapav,12,240.0,Fastfood
+2023-02-09,Vadapav,15,300.0,Fastfood
+2023-02-10,Cold coffee,10,400.0,Beverages
+2023-02-10,Sugarcane juice,9,225.0,Beverages
+2023-02-11,Sugarcane juice,10,250.0,Beverages
+2023-02-12,Frankie,4,200.0,Fastfood
+2023-02-13,Aalopuri,8,160.0,Fastfood
+2023-02-13,Panipuri,18,360.0,Fastfood
+2023-02-13,Sandwich,26,1560.0,Fastfood
+2023-02-13,Vadapav,8,160.0,Fastfood
+2023-02-14,Sandwich,7,420.0,Fastfood
+2023-02-14,Vadapav,6,120.0,Fastfood
+2023-02-15,Cold coffee,14,560.0,Beverages
+2023-02-15,Frankie,15,750.0,Fastfood
+2023-02-15,Panipuri,3,60.0,Fastfood
+2023-02-16,Cold coffee,10,400.0,Beverages
+2023-02-16,Sugarcane juice,10,250.0,Beverages
+2023-02-17,Aalopuri,2,40.0,Fastfood
+2023-02-17,Cold coffee,3,120.0,Beverages
+2023-02-17,Sandwich,12,720.0,Fastfood
+2023-02-18,Cold coffee,15,600.0,Beverages
+2023-02-19,Vadapav,15,300.0,Fastfood
+2023-02-20,Cold coffee,21,840.0,Beverages
+2023-02-21,Cold coffee,12,480.0,Beverages
+2023-02-21,Sandwich,8,480.0,Fastfood
+2023-02-22,Aalopuri,8,160.0,Fastfood
+2023-02-22,Cold coffee,6,240.0,Beverages
+2023-02-22,Frankie,9,450.0,Fastfood
+2023-02-23,Cold coffee,6,240.0,Beverages
+2023-02-23,Sandwich,14,840.0,Fastfood
+2023-02-23,Sugarcane juice,3,75.0,Beverages
+2023-02-24,Aalopuri,3,60.0,Fastfood
+2023-02-24,Cold coffee,6,240.0,Beverages
+2023-02-24,Frankie,7,350.0,Fastfood
+2023-02-24,Sandwich,7,420.0,Fastfood
+2023-02-25,Frankie,9,450.0,Fastfood
+2023-02-25,Vadapav,2,40.0,Fastfood
+2023-02-26,Aalopuri,6,120.0,Fastfood
+2023-02-26,Frankie,19,950.0,Fastfood
+2023-02-26,Vadapav,1,20.0,Fastfood
+2023-02-27,Frankie,23,1150.0,Fastfood
+2023-02-27,Vadapav,9,180.0,Fastfood
+2023-02-28,Aalopuri,1,20.0,Fastfood
+2023-02-28,Frankie,6,300.0,Fastfood
+2023-03-01,Cold coffee,11,440.0,Beverages
+2023-03-01,Sandwich,18,1080.0,Fastfood
+2023-03-01,Sugarcane juice,7,175.0,Beverages
+2023-03-01,Vadapav,12,240.0,Fastfood
+2023-03-02,Aalopuri,25,500.0,Fastfood
+2023-03-02,Frankie,8,400.0,Fastfood
+2023-03-02,Vadapav,11,220.0,Fastfood
+2023-03-03,Cold coffee,8,320.0,Beverages
+2023-03-03,Panipuri,13,260.0,Fastfood
+2023-03-03,Sugarcane juice,10,250.0,Beverages
+2023-03-04,Cold coffee,15,600.0,Beverages
+2023-03-04,Vadapav,9,180.0,Fastfood
+2023-03-05,Panipuri,4,80.0,Fastfood
+2023-03-05,Vadapav,17,340.0,Fastfood
+2023-03-06,Sandwich,7,420.0,Fastfood
+2023-03-07,Panipuri,9,180.0,Fastfood
+2023-03-07,Sandwich,1,60.0,Fastfood
+2023-03-08,Panipuri,12,240.0,Fastfood
+2023-03-08,Sandwich,9,540.0,Fastfood
+2023-03-09,Aalopuri,15,300.0,Fastfood
+2023-03-09,Frankie,30,1500.0,Fastfood
+2023-03-09,Panipuri,4,80.0,Fastfood
+2023-03-09,Sugarcane juice,14,350.0,Beverages
+2023-03-10,Aalopuri,12,240.0,Fastfood
+2023-03-10,Frankie,7,350.0,Fastfood
+2023-03-11,Aalopuri,1,20.0,Fastfood
+2023-03-11,Vadapav,7,140.0,Fastfood
+2023-03-12,Aalopuri,4,80.0,Fastfood
+2023-03-13,Cold coffee,14,560.0,Beverages
+2023-03-13,Sandwich,14,840.0,Fastfood
+2023-03-14,Cold coffee,8,320.0,Beverages
+2023-03-14,Frankie,13,650.0,Fastfood
+2023-03-15,Cold coffee,4,160.0,Beverages
+2023-03-15,Frankie,2,100.0,Fastfood
+2023-03-15,Sandwich,20,1200.0,Fastfood
+2023-03-15,Sugarcane juice,10,250.0,Beverages
+2023-03-15,Vadapav,1,20.0,Fastfood
+2023-03-16,Aalopuri,3,60.0,Fastfood
+2023-03-16,Frankie,11,550.0,Fastfood
+2023-03-16,Panipuri,6,120.0,Fastfood
+2023-03-16,Sugarcane juice,12,300.0,Beverages
+2023-03-17,Cold coffee,10,400.0,Beverages
+2023-03-17,Sugarcane juice,14,350.0,Beverages
+2023-03-18,Sandwich,11,660.0,Fastfood
+2023-03-18,Sugarcane juice,7,175.0,Beverages
+2023-03-19,Frankie,26,1300.0,Fastfood
+2023-03-19,Panipuri,11,220.0,Fastfood
+2023-03-19,Sandwich,28,1680.0,Fastfood
+2023-03-19,Sugarcane juice,6,150.0,Beverages
+2023-03-20,Cold coffee,9,360.0,Beverages
+2023-03-21,Aalopuri,14,280.0,Fastfood
+2023-03-21,Cold coffee,5,200.0,Beverages
+2023-03-22,Cold coffee,6,240.0,Beverages
+2023-03-23,Cold coffee,10,400.0,Beverages
+2023-03-23,Panipuri,12,240.0,Fastfood
+2023-03-23,Sugarcane juice,14,350.0,Beverages
+2023-03-24,Cold coffee,2,80.0,Beverages
+2023-03-25,Aalopuri,2,40.0,Fastfood
+2023-03-25,Cold coffee,13,520.0,Beverages
+2023-03-25,Panipuri,14,280.0,Fastfood
+2023-03-26,Sandwich,1,60.0,Fastfood
+2023-03-26,Vadapav,11,220.0,Fastfood
+2023-03-27,Panipuri,34,680.0,Fastfood
+2023-03-27,Sandwich,6,360.0,Fastfood
+2023-03-29,Cold coffee,27,1080.0,Beverages
+2023-03-30,Sugarcane juice,14,350.0,Beverages

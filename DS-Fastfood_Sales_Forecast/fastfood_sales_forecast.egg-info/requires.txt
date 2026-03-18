@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+pyyaml
+
+[dev]
+pytest
+pytest-cov
+black
+flake8

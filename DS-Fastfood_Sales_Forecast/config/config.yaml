@@ -1,0 +1,30 @@
+project:
+  name: "Fastfood Sales Forecast"
+  seed: 42
+
+data:
+  raw: "data/raw/balaji_fast_food_sales.csv"
+  processed_daily: "data/processed/daily_sales.csv"
+  features: "data/processed/features.csv"
+  predictions: "data/processed/predictions.csv"
+  metrics: "data/processed/model_metrics.csv"
+  models_dir: "models/"
+  logs_file: "logs/pipeline.log"
+
+features:
+  target: "quantity"
+  roll_windows:
+    - 7
+    - 30
+  lags:
+    - 1
+    - 7
+  country: "US"
+
+preprocessing:
+  log_transform_cols: ["transaction_amount"]
+  log_target: true
+
+training:
+  test_size_ratio: 0.2
+  cv_splits: 5

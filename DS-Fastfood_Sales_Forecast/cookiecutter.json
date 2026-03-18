@@ -1,0 +1,32 @@
+{
+    "project_name": "DS Fastfood Sales Forecast",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Guillen Concepcion",
+    "description": "Enterprise-level sales forecasting using XGBoost and Streamlit.",
+    "python_version": "3.10",
+    "environment_manager": [
+        "conda",
+        "virtualenv",
+        "pipenv",
+        "poetry"
+    ],
+    "cloud_storage": [
+        "none",
+        "s3",
+        "gcs",
+        "azure"
+    ],
+    "license": [
+        "MIT",
+        "BSD-3-Clause",
+        "No license"
+    ],
+    "include_mlflow": [
+        "yes",
+        "no"
+    ],
+    "include_docker": [
+        "yes",
+        "no"
+    ]
+}
